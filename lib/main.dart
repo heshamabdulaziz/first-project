@@ -10,6 +10,8 @@ void main() {
           Text("ONE "),
           Text("TWO"),
           Text("THREE"),
+          Text("four "),
+          Text("five"),
         ],
         title: Text("HOME" ,style: TextStyle(color: Colors.red,fontSize:33.3),),
         shadowColor: Color.fromARGB(31, 241, 29, 29),),
